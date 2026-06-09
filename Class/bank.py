@@ -15,4 +15,4 @@ class BankAccount:
 acc = BankAccount("Rafi", 1200)
 acc.deposit(1200)
 acc.withdraw(500)
-print(acc.show_balance())g
+print(acc.show_balance())
